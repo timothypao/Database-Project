@@ -3,7 +3,7 @@ IBCITC Database Project using SQL
 
 In this project, you will design and implement a database according to the below scenario and requirements. The completed assignment will also be presented in a written report. 
 
-Case Scenario
+# Case Scenario
 IBC International Training Center (IBCITC) is a training organization located in Texas. It is
 establishing the most comprehensive learning resource for multiple training programs, such as
 Language Program, IT Program, Art Program and the like. Over the past two decades IBCITC has
@@ -49,7 +49,8 @@ Technological Tools is identified by ToolTypeID and has attribute of Description
 • Events (e.g., Orientation, Networking) are recorded for each training section and have the
 identifier of EventID and other attributes of EventName, PlannedBudget, ApprovedBudget and
 EventDescription.
-With further briefing, the following business rules are identified.
+
+# With further briefing, the following business rules are identified.
 
 • IBCITC makes training schedules on a monthly basis. An instructor can be scheduled to lecture
 more than one section of a training course in a given month, while a section can only be
@@ -73,7 +74,7 @@ one type of technological tool.
 zero, one or more than one event. An event only has one and only one employee in charge. A
 room can be scheduled in zero, one or many events, while an event can use more than one room.
 
-You have chosen Oracle as an industry standard database platform for the implementation. You have
+# You have chosen Oracle as an industry standard database platform for the implementation. You have
 decided to internally call the system you are working on “IBC IT Solution.” Your client requests that
 you create the following sample SQL queries and report the outcomes based on suitable example data
 (these are examples of typical queries needed):
