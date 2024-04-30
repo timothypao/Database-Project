@@ -1,8 +1,6 @@
 # Database-Project
 IBCITC Database Project using SQL
 
-In this project, you will design and implement a database according to the below scenario and requirements. The completed assignment will also be presented in a written report. 
-
 # Case Scenario
 IBC International Training Center (IBCITC) is a training organization located in Texas. It is
 establishing the most comprehensive learning resource for multiple training programs, such as
