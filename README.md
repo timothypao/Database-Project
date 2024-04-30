@@ -74,8 +74,8 @@ one type of technological tool.
 zero, one or more than one event. An event only has one and only one employee in charge. A
 room can be scheduled in zero, one or many events, while an event can use more than one room.
 
-# You have chosen Oracle as an industry standard database platform for the implementation. You have
-decided to internally call the system you are working on “IBC IT Solution.” Your client requests that
+# You have chosen Oracle as an industry standard database platform for the implementation. 
+You have decided to internally call the system you are working on “IBC IT Solution.” Your client requests that
 you create the following sample SQL queries and report the outcomes based on suitable example data
 (these are examples of typical queries needed):
 
